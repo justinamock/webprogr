@@ -1,0 +1,10 @@
+@keyframes example {
+from {background-color: green;}
+to {background-color: yellow;}
+}
+/* Elementas kuriam taikysime animacija */
+header {
+background-color: green;
+animation-name: example;
+animation-duration: 4s;
+}
