@@ -1,0 +1,21 @@
+{
+    "name": "admin/webprogr",
+    "type": "project",
+    "authors": [
+        {
+            "name": "justinamock",
+            "email": "46719830+justinamock@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.3.0",
+        "ext-pdo": "*",
+        "monolog/monolog": "2.1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "KCS\\": "src"
+       }
+   }
+}
