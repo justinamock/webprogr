@@ -1,0 +1,7 @@
+[2020-08-19T22:38:01.237906+00:00] name.WARNING: SQLSTATE[HY000] [1049] Unknown database 'kcs_db' [] []
+[2020-08-19T23:30:24.165671+00:00] name.WARNING: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) [] []
+[2020-08-19T23:59:11.006441+00:00] name.WARNING: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Šis pagrindinis kompiuteris nežinomas.  [] []
+[2020-08-20T00:02:44.922676+00:00] name.WARNING: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Šis pagrindinis kompiuteris nežinomas.  [] []
+[2020-08-20T00:10:03.195744+00:00] name.WARNING: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Šis pagrindinis kompiuteris nežinomas.  [] []
+[2020-08-20T00:17:52.487586+00:00] name.WARNING: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Šis pagrindinis kompiuteris nežinomas.  [] []
+[2020-08-20T00:26:12.913209+00:00] name.WARNING: SQLSTATE[42S01]: Base table or view already exists: 1050 Table 'messages' already exists [] []
