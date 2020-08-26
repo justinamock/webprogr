@@ -1,0 +1,51 @@
+body>script{
+  display: none;
+}
+body, html {
+  height: 100%;
+}
+
+body>*{
+  background-color: lightgray;
+  border: 1px solid darkgray;
+  display: flex;
+  align-items: center;
+}
+header{
+    grid-area: h;
+}
+
+main{
+    grid-area: m;
+}
+
+aside{
+    grid-area: a;
+}
+
+aside.right{
+    grid-area: ar;
+}
+footer{
+    grid-area: f;
+}
+
+body{
+display:grid;
+    grid-template-areas:
+        'h h h'
+        'a m ar'
+        'f f f';
+        grid-gap: 10px;
+ grid-template-columns: 200px auto 100px;
+ grid-template-rows: 50px auto 100px;
+}
+
+
+.float{
+    float: left;
+}
+
+.clearfloat {
+    clear: both;
+}

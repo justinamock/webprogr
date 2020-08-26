@@ -1,0 +1,5 @@
+[2020-08-26T13:56:05.792986+00:00] name.ERROR: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST) [] []
+[2020-08-26T13:58:10.865140+00:00] name.ERROR: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST) [] []
+[2020-08-26T14:00:27.511956+00:00] name.ERROR: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST) [] []
+[2020-08-26T14:00:34.077331+00:00] name.ERROR: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST) [] []
+[2020-08-26T14:00:52.400379+00:00] name.ERROR: syntax error, unexpected '\' (T_NS_SEPARATOR), expecting function (T_FUNCTION) or const (T_CONST) [] []
